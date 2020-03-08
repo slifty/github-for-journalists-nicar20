@@ -93,7 +93,7 @@ Remember too that Github preserves all versions of your code, so even past versi
 
 Make sure to put any sensitive passwords or keys in a passwords file, and list it under gitignore so it won't be committed to your repository.
 
-## Oh no! I messed up everything and now my world is crashing down but Liam Neeson won't come to rescure. WHAT DO I DO?
+## Oh no! I messed up everything and now my world is crashing down but Liam Neeson won't come to rescue. WHAT DO I DO?
 
 Take a breath, meditate and then delete your folder and reclone. It works and it's glorious. Everybody should try it. 
 
